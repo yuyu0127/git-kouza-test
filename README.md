@@ -1,1 +1,1 @@
-# git-kouza-test
+19:35 から Git 講座やるぞ
