@@ -1,1 +1,1 @@
-# git-kouza-test
+Jit 講座やります！！！！！
